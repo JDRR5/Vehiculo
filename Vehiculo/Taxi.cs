@@ -15,7 +15,7 @@ namespace Vehiculo
             SetMatricula("TAX-001");
             SetModelo("KIA PICANTO");
             SetPotenciaCV(90.0);
-            this.numeroLicencia = "LIC-001";
+            this.numeroLicencia = "586974389562";
         }
 
         public string GetNumeroLicencia() => numeroLicencia;
