@@ -13,7 +13,7 @@ namespace Vehiculo
             Taxi taxi1 = new Taxi();
             Taxi taxi2 = new Taxi();
             taxi2.SetMatricula("TAX-002");
-            taxi2.SetNumeroLicencia("12345678900000");
+            taxi2.SetNumeroLicencia("586974389562");
 
             Autobus autobus1 = new Autobus();
             Autobus autobus2 = new Autobus();
