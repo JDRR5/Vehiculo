@@ -10,7 +10,7 @@ namespace Vehiculo
     {
         private int numeroPlazas;
 
-        public Autobus() : base()
+        public Autobus()
         {
             SetMatricula("BUS-001");
             SetModelo("VOLSKWAGEN");
