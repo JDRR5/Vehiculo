@@ -10,7 +10,7 @@ namespace Vehiculo
     {
         private string numeroLicencia;
 
-        public Taxi() : base()
+        public Taxi()
         {
             SetMatricula("TAX-001");
             SetModelo("KIA PICANTO");
